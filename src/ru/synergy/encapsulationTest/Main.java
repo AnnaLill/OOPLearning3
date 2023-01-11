@@ -1,4 +1,4 @@
-package ru.synergy.constructorsTest;
+package ru.synergy.encapsulationTest;
 public class Main {
     public static final Integer MAGNIFIER = 10000;
     public static void main(String[] args) throws Exception {
